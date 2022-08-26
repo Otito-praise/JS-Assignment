@@ -7,6 +7,7 @@ const {
   doubleArray,
   findStudentName,
 } = require('../src');
+console.log("testing")
 
 describe('Assignment Test', () => {
   it('should return the sum of two numbers', () => {
